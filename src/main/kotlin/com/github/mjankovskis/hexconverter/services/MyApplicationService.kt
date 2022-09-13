@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mjankovskis.hexconverter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mjankovskis.hexconverter.MyBundle
 
 class MyApplicationService {
 
